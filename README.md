@@ -1,4 +1,4 @@
-👋 Olá! Seja bem-vindo(a) ao meu GitHub, sou Micaele
+👋 Olá! Seja bem-vindo(a) ao meu GitHub
 Sou estudante de Ciência da Computação (Bacharelado) pela Cruzeiro do Sul Virtual, com grande interesse em desenvolvimento de software e soluções que envolvam tecnologia de forma criativa e eficiente.
 
 🎯 Buscando uma oportunidade de estágio em TI, estou me dedicando ao aprendizado e prática nas seguintes áreas:
