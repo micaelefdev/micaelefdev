@@ -1,21 +1,51 @@
-👋 Olá! Seja bem-vindo(a) ao meu GitHub
-Sou estudante de Ciência da Computação (Bacharelado) pela Cruzeiro do Sul Virtual, com grande interesse em desenvolvimento de software e soluções que envolvam tecnologia de forma criativa e eficiente.
+# 👩‍💻 Micaele Ferreira
 
-🎯 Buscando uma oportunidade de estágio em TI, estou me dedicando ao aprendizado e prática nas seguintes áreas:
+Sou estudante de **Ciência da Computação (Bacharelado)** pela **Cruzeiro do Sul Virtual**, apaixonada por tecnologia e em busca de uma oportunidade de **estágio na área de TI**.
 
-💻 Desenvolvimento Web
-Front-end: HTML, CSS, JavaScript
+Atualmente, estou focada no desenvolvimento de projetos que envolvem **Front-end, Back-end** e **Inteligência Artificial**, buscando sempre aplicar na prática os conhecimentos adquiridos.
 
-Frameworks & Ferramentas: React (estudo em andamento), Git, GitHub
+---
 
-⚙️ Desenvolvimento Back-end
-Linguagens: Python, Java
+## 💻 Desenvolvimento Web
 
-Banco de Dados: SQL (MySQL, PostgreSQL)
+**Front-end:**
+- HTML
+- CSS
+- JavaScript
+- (Estudando React)
 
-🤖 Inteligência Artificial
-Aprendendo conceitos fundamentais e práticas com Python, voltado para machine learning e automações simples.
+**Ferramentas:**
+- Git & GitHub
+- VS Code
+- Figma (básico)
 
-📚 Sempre em busca de novos conhecimentos, gosto de explorar projetos práticos e colaborar com soluções que possam impactar positivamente o mundo ao nosso redor.
+---
 
-🔗 Fique à vontade para explorar meus repositórios e acompanhar minha jornada!
+## ⚙️ Desenvolvimento Back-end
+
+- Python
+- Java
+- SQL (MySQL, PostgreSQL)
+
+---
+
+## 🤖 Inteligência Artificial
+
+Estudando os fundamentos de IA com Python, focando em:
+- Lógica de programação
+- Automatizações simples
+- Introdução ao Machine Learning
+
+---
+
+## 🚀 Objetivos
+
+- Aprimorar minhas habilidades técnicas
+- Participar de projetos reais e colaborativos
+- Ingressar em um estágio para iniciar minha carreira na área de tecnologia
+
+---
+
+## 🌐 Vamos nos conectar?
+
+Fique à vontade para explorar meus repositórios e acompanhar minha jornada por aqui!
