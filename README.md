@@ -48,4 +48,5 @@ Estudando os fundamentos de IA com Python, focando em:
 
 ## 🌐 Vamos nos conectar?
 
-Fique à vontade para explorar meus repositórios e acompanhar minha jornada por aqui!
+- 📧 **E-mail:** [fmickaelly85@gmail.com](mailto:fmickaelly85@gmail.com)  
+- 💼 **LinkedIn:** [www.linkedin.com/in/micaelefe](https://www.linkedin.com/in/micaelefe)
